@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
-    Name:     Kimbie (light)
-    Author:   Jan T. Sott
-    License:  Creative Commons Attribution-ShareAlike 4.0 Unported License
-    URL:      https://github.com/idleberg/Kimbie-IntelliJ-IDEA
+  Name:     Kimbie (light)
+  Author:   Jan T. Sott
+  License:  Creative Commons Attribution-ShareAlike 4.0 Unported License
+  URL:      https://github.com/idleberg/Kimbie-IntelliJ-IDEA
 
-    Base16 template for IntelliJ IDEA by Igor Rumiha (https://github.com/irumiha)
+  Base16 template for IntelliJ IDEA by Igor Rumiha (https://github.com/irumiha)
 
 -->
 <scheme name="Kimbie (light)" version="1" parent_scheme="Default">
