@@ -460,7 +460,7 @@
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="18401e" />
+        <option name="FOREGROUND" value="088649" />
       </value>
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
@@ -508,7 +508,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="18401e" />
+        <option name="BACKGROUND" value="088649" />
         <option name="ERROR_STRIPE_COLOR" value="bccff9" />
       </value>
     </option>
@@ -619,7 +619,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="FOREGROUND" value="18401e" />
+        <option name="FOREGROUND" value="088649" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
